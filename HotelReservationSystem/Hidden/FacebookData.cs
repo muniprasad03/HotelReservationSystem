@@ -12,7 +12,7 @@ namespace HotelReservationSystem.Hidden
         // My Apps -> Add new app (Web)
         // Paste your app credentials here
 
-        public static string AppId = "";
-        public static string AppSecret = "";
+        public static string AppId = "365355167511694";
+        public static string AppSecret = "5b7f3d88307cb37175b650f5f48fce0e";
     }
 }
